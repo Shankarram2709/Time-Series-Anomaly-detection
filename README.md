@@ -1,1 +1,1 @@
-# Time-Series-Anolamy-detection
+# Time-Series-Anomaly-detection
