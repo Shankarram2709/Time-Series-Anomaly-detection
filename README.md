@@ -6,7 +6,7 @@ Implementation of Recurrent Neural Network based anomaly detection in a Univaria
 * WINDOWS 10
 * Python 3.5+
 * Tensorflow 2.0
-* Tensorflow Estimator<2.1
+* Tensorflow Estimator<=2.1
 * Numpy
 * Matplotlib
 * Pandas
