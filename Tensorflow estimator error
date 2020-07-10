@@ -1,0 +1,5 @@
+Tensorflow estimator 2.1 installation broken error
+AttributeError: module 'tensorflow' has no attribute 'compat' when loading tf.compat.v1.train.SessionRunHook
+
+Degrade Tensorflow estimator to 2.0 or
+pip install tensorflow-estimator==2.1.*
