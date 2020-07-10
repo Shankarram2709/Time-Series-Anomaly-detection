@@ -12,6 +12,7 @@ Implementation of Recurrent Neural Network based anomaly detection in a Univaria
 * Pandas
 * Seaborn
 
+
 # Contacts
-If you have any questions please open an issu
+If you have any questions please open an issue
 
